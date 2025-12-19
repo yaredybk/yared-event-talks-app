@@ -1,0 +1,97 @@
+[
+  {
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "talk": {
+      "title": "The Future of Artificial Intelligence",
+      "speakers": [
+        "Jane Doe"
+      ],
+      "category": [
+        "AI",
+        "Machine Learning"
+      ],
+      "description": "A deep dive into the latest advancements in AI and what to expect in the coming years."
+    }
+  },
+  {
+    "startTime": "11:10 AM",
+    "endTime": "12:10 PM",
+    "talk": {
+      "title": "Building Scalable Web Applications",
+      "speakers": [
+        "John Smith",
+        "Peter Jones"
+      ],
+      "category": [
+        "Web Development",
+        "Scalability"
+      ],
+      "description": "Learn the best practices for building web applications that can handle millions of users."
+    }
+  },
+  {
+    "startTime": "12:20 PM",
+    "endTime": "01:20 PM",
+    "talk": {
+      "title": "Cybersecurity in the Modern Age",
+      "speakers": [
+        "Mary Johnson"
+      ],
+      "category": [
+        "Cybersecurity"
+      ],
+      "description": "An overview of the current cybersecurity landscape and how to protect your organization from threats."
+    }
+  },
+  {
+    "startTime": "01:20 PM",
+    "endTime": "02:20 PM",
+    "break": "Lunch Break"
+  },
+  {
+    "startTime": "02:30 PM",
+    "endTime": "03:30 PM",
+    "talk": {
+      "title": "The Rise of Serverless Architectures",
+      "speakers": [
+        "David Lee"
+      ],
+      "category": [
+        "Serverless",
+        "Cloud Computing"
+      ],
+      "description": "Explore the benefits and challenges of serverless computing and how to get started."
+    }
+  },
+  {
+    "startTime": "03:40 PM",
+    "endTime": "04:40 PM",
+    "talk": {
+      "title": "Introduction to Quantum Computing",
+      "speakers": [
+        "Susan Williams"
+      ],
+      "category": [
+        "Quantum Computing"
+      ],
+      "description": "A beginner-friendly introduction to the mind-bending world of quantum computing."
+    }
+  },
+  {
+    "startTime": "04:50 PM",
+    "endTime": "05:50 PM",
+    "talk": {
+      "title": "The Ethics of AI",
+      "speakers": [
+        "Michael Brown",
+        "Emily Davis"
+      ],
+      "category": [
+        "AI",
+        "Ethics"
+      ],
+      "description": "A discussion on the ethical implications of artificial intelligence and how to ensure its responsible development."
+    }
+  }
+]

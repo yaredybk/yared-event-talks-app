@@ -1,0 +1,70 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+header {
+  background-color: #007bff;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+#search {
+  width: 80%;
+  max-width: 400px;
+  padding: 0.5rem;
+  border: none;
+  border-radius: 5px;
+}
+
+#schedule-container {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 1rem;
+}
+
+.talk {
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
+
+.talk-time {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.talk-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.talk-speakers {
+  font-style: italic;
+  margin-bottom: 0.5rem;
+    }
+
+.talk-category {
+  display: inline-block;
+  background-color: #007bff;
+  color: white;
+  padding: 0.25rem 0.5rem;
+  border-radius: 5px;
+  font-size: 0.8rem;
+  margin-right: 0.5rem;
+}
+
+.break {
+  text-align: center;
+  font-weight: bold;
+  background-color: #eee;
+  padding: 1rem;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+}
